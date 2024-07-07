@@ -1,0 +1,1 @@
+This is an online intergretation of the game mafia. Still a work in progress.
